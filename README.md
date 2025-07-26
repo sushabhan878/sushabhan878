@@ -11,7 +11,7 @@
 
 <img align="right" height="200" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"  />
 
-###https://i.imgflip.com/65efzo.gif
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
